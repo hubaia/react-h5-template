@@ -13,7 +13,7 @@ const route: IRoute[] = [
       {
         path: '/',
         component: '@/pages/home',
-        title: '主页',
+        title: '',
       },
     ],
   },
